@@ -1,4 +1,4 @@
-module github.com/lukasertl/minio
+module github.com/minio/minio
 
 go 1.25.7
 
